@@ -1,16 +1,27 @@
-## Hi there 👋
+# Balaji Kolla
 
-<!--
-**Balajikolla-dev/Balajikolla-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate software developer who loves building web applications and exploring new technologies. I focus on creating clean, efficient code and turning ideas into functional software.
 
-Here are some ideas to get you started:
+### What I Do
+- 💻 **Development:** Building modern, responsive web applications and APIs.
+- 🎨 **Problem Solving:** Designing clean user experiences and writing efficient logic.
+- 📚 **Continuous Learning:** Exploring new frameworks, tools, and best practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Balajikolla-dev/Balajikolla-dev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Balajikolla-dev/Balajikolla-dev/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Balajikolla-dev/Balajikolla-dev/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+⭐ **If you like my projects, please consider leaving a star on my repositories! Your support means a lot.**
+
+---
+
+### Connect with Me
+[LinkedIn](https://www.linkedin.com/in/balajikolla-developer/)• [Email](mailto:Kollabalaji810@example.com)
