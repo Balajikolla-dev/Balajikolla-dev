@@ -22,9 +22,9 @@ I am a passionate software developer who loves building web applications and exp
 ⭐ **If you like my projects, please consider leaving a star on my repositories! Your support means a lot.**
 
 ---
-### interested in working with me  Connect with Me
+### Interested in working with me ?
 [LinkedIn](https://www.linkedin.com/in/balajikolla-developer/)• [Email](mailto:Kollabalaji810@example.com)
 
 ---
 
-### Thanks for visiting my profile
+### Thanks for visiting my profile !!!
